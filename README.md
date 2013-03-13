@@ -1,4 +1,4 @@
 nagios-plugins
 ==============
 
-Nagios plugins
+./check_pidfile /path/to/filename.pid
